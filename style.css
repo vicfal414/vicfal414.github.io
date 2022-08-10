@@ -1,0 +1,13 @@
+.pfp{
+    max-width: 250px;
+    max-height: auto;
+    align-items: center;
+}
+#hello{
+    color: #9da1a6;
+    font-size: 72pt;
+    font-family: 'Lobster', cursive;
+}
+p{
+font-family: 'Roboto', sans-serif;
+}
